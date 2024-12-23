@@ -62,7 +62,7 @@ CurrencyConverter
 googletrans==4.0.0-rc1
 google_trans_new
 pyrate-limiter==2.8.2
-python-arq==6.0.5
+python-arq==6.0.7
 hachoir
 configparser
 python-dotenv==1.0.0
